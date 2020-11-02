@@ -1,0 +1,2 @@
+import os
+API_KEY = "563492ad6f91700001000001d13302c0afaa447bb1adf477f3ffcc74"
